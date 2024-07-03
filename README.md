@@ -38,6 +38,8 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bashTechnologies
+   github clone https://github.com/neha125srivastava/React-project.git
+   cd react-project
    
 
    
