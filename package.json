@@ -1,0 +1,17 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0"
+  }
+}
