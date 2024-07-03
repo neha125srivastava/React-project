@@ -73,10 +73,8 @@ LinkedIn: https://www.linkedin.com/in/neha-srivastava-353210286/
 
 Thank you for checking out my portfolio project!
 
-css
-Copy code
 
-Feel free to customize this template to match your specific project details and preferences.
+
 
 ---
 
