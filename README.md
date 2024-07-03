@@ -1,3 +1,5 @@
+---
+
 # My Portfolio
 
 Welcome to my portfolio project! This project showcases my skills, projects, and experience using React.
@@ -35,6 +37,52 @@ You can view a live demo of the portfolio [here](http://localhost:5173/).
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/neha125srivastava/React-project.git
-   cd react-portfolio
+   ```bashTechnologies
+   
+
+   
+This project was built using the following technologies:
+
+React
+React Router
+Styled Components
+EmailJS
+JavaScript (ES6+)
+HTML5
+CSS3
+Contributing
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+Fork the repository.
+Create a new branch: git checkout -b feature-branch.
+Make your changes.
+Commit your changes: git commit -m 'Add some feature'.
+Push to the branch: git push origin feature-branch.
+Submit a pull request.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+If you have any questions or comments, feel free to reach out to me:
+
+Email: neha128srivastava@gmail.com
+LinkedIn: https://www.linkedin.com/in/neha-srivastava-353210286/
+
+
+Thank you for checking out my portfolio project!
+
+css
+Copy code
+
+Feel free to customize this template to match your specific project details and preferences.
+
+---
+
+
+
+
+
+
+   
+
+   
